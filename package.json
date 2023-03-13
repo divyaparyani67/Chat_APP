@@ -1,0 +1,23 @@
+{
+  "name": "-ms_slack_ursa_tep_online_part-time_2022_1",
+  "version": "1.0.0",
+  "description": "# Learning competencies:",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/-MS_Slack_Ursa_Tep_Online_Part-time_2022_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/-MS_Slack_Ursa_Tep_Online_Part-time_2022_1/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/-MS_Slack_Ursa_Tep_Online_Part-time_2022_1#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  }
+}
